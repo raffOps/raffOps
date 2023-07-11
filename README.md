@@ -93,8 +93,13 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
         alt="tensorflow" width="40" height="40"/></a>
-    <a align="center">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=rafaelribeiro&cover_image=true&theme=default" alt="Spotify recently played"  />
-    </a>
 
 </p>
+
+</div>
+
+
+###
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rafaelribeiro&cover_image=true&theme=default" alt="Spotify recently played"  />
+</div>
