@@ -76,7 +76,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
         alt="postgresql" width="40" height="40"/> </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_dark_bg.png?api=v2"
+        <img src="https://airflow.readthedocs.io/en/1.10.6/_images/pin_large.png"
         alt="apache airflow" width="40" height="40"/> </a>
     <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
         <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"
@@ -95,9 +95,6 @@
         alt="tensorflow" width="40" height="40"/></a>
 
 </p>
-
-</div>
-
 
 ###
 <div align="center">
