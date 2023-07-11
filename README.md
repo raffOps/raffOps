@@ -1,43 +1,100 @@
+<h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Data developer and Computer Science student. Coding from Brazil.</h3>
 
-###
-<h4 align="center">❤️ Python, Big Data, Data Science and DevOps</h4>
-<div align="center">
-  <a href="https://www.linkedin.com/in/ribeiro-rafael-junior/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+- 🌱 I’m currently learning **Rest API (FastApi, Pydantic, Alembic)**
 
+- 💬 Ask me about **Python, SQL, data stuff**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ribeiro-rafael-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribeiro-rafael-junior" height="30" width="40" /></a>
+</p>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=rjribeiro" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjribeiro&hide=c%2B%2B,c,assembly,html,m4,cmake,Mathematica,perl,&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+        alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" 
+        alt="scala" width="40" height="40"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        alt="java" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+        alt="aws" width="40" height="40"/> </a> 
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
+        alt="gcp" width="40" height="40"/> </a> 
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/374122/terraform.svg" 
+        alt="terraform" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+        alt="linux" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+        alt="git" width="40" height="40"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
+        alt="bash" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+        alt="docker" width="40" height="40"/> </a>
+    <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" 
+        alt="grafana" width="40" height="40"/> </a> 
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" 
+        alt="streamlit" width="40" height="40"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
+        alt="seaborn" width="40" height="40"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" 
+        alt="apache kafka" width="40" height="40"/> </a>
+    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" 
+        alt="apache spark" width="40" height="40"/> </a>
+    <a href="https://beam.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://beam.apache.org/images/logos/full-color/nameless/beam-logo-full-color-nameless.svg" 
+        alt="apache beam" width="40" height="40"/> </a>
+    <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
+        <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/duckdb-icon.png"
+        alt="duckdb" width="40" height="40"/> </a> 
+    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"
+        alt="google big query" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+        alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" 
+        alt="pandas" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+        alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_dark_bg.png?api=v2"
+        alt="apache airflow" width="40" height="40"/> </a>
+    <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+        <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"
+        alt="dbt" width="40" height="40"/> </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
+        alt="kubernetes" width="40" height="40"/> </a> 
+    <a href="https://openfinancebrasil.org.br/" target="_blank" rel="noreferrer">
+        <img src="https://ob-public-files.s3.amazonaws.com/simbolo_open_finance.HTML.svg"
+        alt="open finance" width="40" height="40"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
+        alt="scikit_learn" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
+        alt="tensorflow" width="40" height="40"/></a>
+    <a align="center">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=rafaelribeiro&cover_image=true&theme=default" alt="Spotify recently played"  />
+    </a>
 
-###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" width="52" alt="julia logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="linux logo"  />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" width="52" alt="terraform" width="40" height="40" /> 
-
-</div>
-
-
-###
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rafaelribeiro&cover_image=true&theme=default" alt="Spotify recently played"  />
-</div>
-
+</p>
