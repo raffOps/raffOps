@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Data developer and Computer Science student. Coding from Brazil.</h3>
 
-- 🌱 I’m currently learning **MLops**
+- 🌱 I’m currently learning **MLops and Go**
 
 - 💬 Ask me about **Python, SQL, data stuff**
 
