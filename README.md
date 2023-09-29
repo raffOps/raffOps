@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Data developer and Computer Science student. Coding from Brazil.</h3>
+<h3 align="center">Data developer and Computer Scientist coding from Brazil.</h3>
 
 - 🌱 I’m currently learning **TDD & Go**
 
@@ -76,7 +76,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
         alt="postgresql" width="40" height="40"/> </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://airflow.readthedocs.io/en/1.10.6/_images/pin_large.png"
+        <img src="https://lh3.googleusercontent.com/q51BTkp50hAA7R4pudtVJ8Ojgdg_HuyaHH_NwbR7i3PjCVUejovhYPsM9S-2fx10J0QBGNYbU0BCtW9iCc_0FA"
         alt="apache airflow" width="40" height="40"/> </a>
     <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
         <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"
