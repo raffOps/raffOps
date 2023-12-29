@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Data developer and Computer Scientist coding from Brazil.</h3>
 
-- 🌱 I’m currently learning **TDD & Go**
+- 🌱 I’m currently learning **Software Architecture, TDD & Go**
 
 - 💬 Ask me about **Python, SQL, data stuff**
 
