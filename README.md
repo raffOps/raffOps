@@ -1,102 +1,33 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">Data developer and Computer Scientist coding from Brazil.</h3>
+# Hi 👋, I'm Rafael
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelribeiro-blue)](https://linkedin.com/in/ribeiro-rafael-junior)
 
-- 🌱 I’m currently learning **Software Architecture, TDD & Go**
+### Data developer and Computer Scientist coding from Brazil.
 
-- 💬 Ask me about **Python, SQL, data stuff**
+- 🌱 I’m currently learning **Software Architecture, gRPC, UML, and testing**
+- 💬 Ask me about **Linux, databases, machine learning, programming, and DevOps.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ribeiro-rafael-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribeiro-rafael-junior" height="30" width="40" /></a>
-</p>
+## 💻 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-        alt="python" width="40" height="40"/> </a> 
-    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png" 
-        alt="golang" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-        alt="java" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-        alt="aws" width="40" height="40"/> </a> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
-        alt="gcp" width="40" height="40"/> </a> 
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/374122/terraform.svg" 
-        alt="terraform" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-        alt="linux" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-        alt="git" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
-        alt="bash" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-        alt="docker" width="40" height="40"/> </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" 
-        alt="grafana" width="40" height="40"/> </a> 
-    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" 
-        alt="streamlit" width="40" height="40"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
-        alt="seaborn" width="40" height="40"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" 
-        alt="apache kafka" width="40" height="40"/> </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" 
-        alt="apache spark" width="40" height="40"/> </a>
-    <a href="https://beam.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://beam.apache.org/images/logos/full-color/nameless/beam-logo-full-color-nameless.svg" 
-        alt="apache beam" width="40" height="40"/> </a>
-    <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
-        <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/duckdb-icon.png"
-        alt="duckdb" width="40" height="40"/> </a> 
-    <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg"
-        alt="google big query" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-        alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" 
-        alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-        alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://lh3.googleusercontent.com/q51BTkp50hAA7R4pudtVJ8Ojgdg_HuyaHH_NwbR7i3PjCVUejovhYPsM9S-2fx10J0QBGNYbU0BCtW9iCc_0FA"
-        alt="apache airflow" width="40" height="40"/> </a>
-    <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"
-        alt="dbt" width="40" height="40"/> </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
-        alt="kubernetes" width="40" height="40"/> </a> 
-    <a href="https://openfinancebrasil.org.br/" target="_blank" rel="noreferrer">
-        <img src="https://ob-public-files.s3.amazonaws.com/simbolo_open_finance.HTML.svg"
-        alt="open finance" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-        alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
-        alt="tensorflow" width="40" height="40"/></a>
+### 👨‍💻 Software Engineering
+**Techniques:** Test-Driven Development, Clean Code, Debugging, Documentation, Object-Oriented Programming (OOP), Functional Programming, Hexagonal Architecture, RESTful API Design, Integration Testing, Unit Testing, UML, Code Review  
+**Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-6DB33F?style=flat-square&logo=scrapy&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)   ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Alembic](https://img.shields.io/badge/-Alembic-76B900?style=flat-square&logo=alembic&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-7E6BF3?style=flat-square&logo=pydantic&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-07405E?style=flat-square&logo=sqlalchemy&logoColor=white)
 
-</p>
+#### ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)  ![Gin](https://img.shields.io/badge/-Gin-6DB33F?style=flat-square&logo=gin&logoColor=white) ![GORM](https://img.shields.io/badge/-GORM-00A98F?style=flat-square&logo=gorm&logoColor=white) ![Testify](https://img.shields.io/badge/-Testify-00B3E6?style=flat-square&logo=testify&logoColor=white) ![Go-NSQ](https://img.shields.io/badge/-Go--NSQ-FF6F00?style=flat-square&logo=nsq&logoColor=white) ![Mockery](https://img.shields.io/badge/-Mockery-DD4477?style=flat-square&logo=mockery&logoColor=white) ![TestContainers](https://img.shields.io/badge/-TestContainers-1A1A1A?style=flat-square&logo=testcontainers&logoColor=white)
 
-###
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rafaelribeiro&cover_image=true&theme=default" alt="Spotify recently played"  />
-</div>
+### 🗄️ Database
+**Techniques:** Relational/Dimensional Modeling, OLTP/OLAP, Schema Evolution, Migrations  
+**Tools:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![DBT](https://img.shields.io/badge/-dbt-F9A03C?style=flat-square&logo=dbt&logoColor=white)
+
+### 🛠️ Data Engineering
+**Techniques:** ELT/ETL, Batch & Streaming, Data Quality & Observability  
+**Tools:** ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Apache Beam](https://img.shields.io/badge/-Beam-B31717?style=flat-square&logo=apache&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+### 🤖 Machine Learning
+**Techniques:** Regression, Classification, Clustering, Data Wrangling, Hyperparameter Optimization  
+**Tools:** 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-6B46C1?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+### ☁️ Cloud & DevOps
+**Techniques:** Infrastructure as Code, Containerization and Orchestration, CI/CD  
+**Tools:** ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
