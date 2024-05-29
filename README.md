@@ -31,3 +31,10 @@
 ### ☁️ Cloud & DevOps
 **Techniques:** Infrastructure as Code, Containerization and Orchestration, CI/CD  
 **Tools:** ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</p>
+
+###
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rafaelribeiro&cover_image=true&theme=default" alt="Spotify recently played"  />
+</div>
