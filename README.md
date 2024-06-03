@@ -20,7 +20,7 @@
 **Tools:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![DBT](https://img.shields.io/badge/-dbt-F9A03C?style=flat-square&logo=dbt&logoColor=white)
 
 ### 🛠️ Data Engineering
-**Techniques:** ELT/ETL, Batch & Streaming, Data Quality & Observability  
+**Techniques:** ELT/ETL, Batch & Streaming, Web Scraping, Data Quality & Observability  
 **Tools:** ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Apache Beam](https://img.shields.io/badge/-Beam-B31717?style=flat-square&logo=apache&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ### 🤖 Machine Learning
