@@ -3,7 +3,7 @@
 
 ### Data developer and Computer Scientist coding from Brazil.
 
-- 🌱 I’m currently learning **Software Architecture, gRPC, UML, and testing**
+- 🌱 I’m currently learning **Software Architecture, grpc and Cryptography**
 - 💬 Ask me about **Linux, databases, machine learning, programming, and DevOps.**
 
 ## 💻 Technical Skills
