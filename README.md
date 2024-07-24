@@ -3,15 +3,14 @@
 
 ### Data developer and Computer Scientist coding from Brazil.
 
-- 🌱 I’m currently studying **Software Architecture, gRPC and Cryptography**
+- 🌱 I’m currently studying **Software Architecture, gRPC, Cryptography, Redis and RabbitMQ**
 - 💬 Ask me about **Linux, databases, machine learning, programming, and DevOps.**
 
 ## 💻 Technical Skills
 
-### 👨‍💻 Software Engineering
+### 👨‍💻 Software/Data Engineering
 **Techniques:** Test-Driven Development, Clean Code, Debugging, Documentation, 
-Object-Oriented Programming (OOP), Functional Programming, Hexagonal Architecture, 
-RESTful API Design, Integration Testing, Unit Testing, UML, Code Review, 
+Object-Oriented Programming (OOP), Functional Programming, Hexagonal Architecture, API Design, Integration Testing, Unit Testing, UML, Code Review, 
 Web Scrapping, ETL/ELT  
 
 **Tools:**  
@@ -33,7 +32,7 @@ Web Scrapping, ETL/ELT
 ![DBT](https://img.shields.io/badge/-dbt-F9A03C?style=flat-square&logo=dbt&logoColor=white)
 
 ### 🛠️ Distributed Systems
-**Techniques:** Data Pipelines,  Data Lake, Data Warehouse, Asynchronous Processing, Message Queue
+**Techniques:** Data Pipelines, Batch Processing, Data Lake, Data Warehouse, Asynchronous Processing, Message Queue
 
 **Tools:** ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
@@ -42,7 +41,7 @@ Web Scrapping, ETL/ELT
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 ### 🤖 Machine Learning
-**Techniques:** Regression, Classification, Clustering, Data Wrangling, Hyperparameter Optimization  
+**Techniques:** Regression, Classification, Clustering, Data Wrangling, Hyperparameter Optimization, Cross Validation, Regularization, Data Augmentation  
 
 **Tools:** 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-6B46C1?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -52,9 +51,3 @@ Web Scrapping, ETL/ELT
 
 **Tools:** ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</p>
-
-###
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rafaelribeiro&cover_image=true&theme=default" alt="Spotify recently played"  />
-</div>
