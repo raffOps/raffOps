@@ -1,53 +1,37 @@
-# Hi 👋, I'm Rafael
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelribeiro-blue)](https://linkedin.com/in/ribeiro-rafael-junior)
+# Hi, I'm Rafael! 👋
 
-### Data developer and Computer Scientist coding from Brazil.
+Data and Software Engineer with 8 years of technical experience in data-oriented projects. I specialize in establishing a **DataOps** culture through CI/CD pipelines, deployment automation, and Infrastructure as Code (IaC).
 
-- 🌱 I’m currently studying **Software Architecture, gRPC, Cryptography, Redis and RabbitMQ**
-- 💬 Ask me about **Linux, databases, machine learning, programming, and DevOps.**
+Beyond my core focus on data platforms, I am highly interested and actively engaged in **Software Engineering** (building robust backend services and platform tools) and **Data Science** (leveraging analytical workflows and structured modeling to solve complex problems).
 
-## 💻 Technical Skills
+I am a **DevOps enthusiast** who genuinely loves building efficient, automated, and self-healing systems. I enjoy creating seamless developer experiences, designing scalable CI/CD pipelines, and treating infrastructure-as-code as a core engineering discipline.
 
-### 👨‍💻 Software/Data Engineering
-**Techniques:** Test-Driven Development, Clean Code, Debugging, Documentation, 
-Object-Oriented Programming (OOP), Functional Programming, Hexagonal Architecture, API Design, Integration Testing, Unit Testing, UML, Code Review, 
-Web Scrapping, ETL/ELT  
+Currently, I work as a **Senior Data Engineer (DataOps Focus)**, building scalable, robust, and secure data platforms across multi-cloud environments (AWS and GCP).
 
-**Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-6DB33F?style=flat-square&logo=scrapy&logoColor=white) ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)   ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Alembic](https://img.shields.io/badge/-Alembic-76B900?style=flat-square&logo=alembic&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-7E6BF3?style=flat-square&logo=pydantic&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-07405E?style=flat-square&logo=sqlalchemy&logoColor=white)
+---
 
-#### ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)  ![Gin](https://img.shields.io/badge/-Gin-6DB33F?style=flat-square&logo=gin&logoColor=white) ![GORM](https://img.shields.io/badge/-GORM-00A98F?style=flat-square&logo=gorm&logoColor=white) ![Testify](https://img.shields.io/badge/-Testify-00B3E6?style=flat-square&logo=testify&logoColor=white) ![Go-NSQ](https://img.shields.io/badge/-Go--NSQ-FF6F00?style=flat-square&logo=nsq&logoColor=white) ![Mockery](https://img.shields.io/badge/-Mockery-DD4477?style=flat-square&logo=mockery&logoColor=white) 
+### 🛠️ Technologies & Tools
 
-![OpenApi](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-00ADD8?style=flat-square&logo=grpc&logoColor=white)
-![TestContainers](https://img.shields.io/badge/-TestContainers-1A1A1A?style=flat-square&logo=testcontainers&logoColor=white)
+- **Languages:** Go, Python, SQL, Shell Scripting
+- **DataOps & IaC:** Terraform, CloudFormation, Helm, CI/CD (GitHub Actions, ArgoCD), Docker, Kubernetes (EKS, GKE)
+- **Orchestration & Processing:** Apache Airflow, dbt, Apache Kafka, Debezium, Google Cloud Dataflow
+- **Cloud Providers:** Amazon Web Services (AWS), Google Cloud Platform (GCP)
+- **Databases & Data Warehouses:** BigQuery, PostgreSQL, S3/Cloud Storage (Lakehouse Architectures)
+- **Observability & Quality:** Prometheus, Grafana, Cloud Monitoring, Soda, OpenTelemetry
 
-### 🗄️ SQL | NoSQL
-**Techniques:** Relational/Dimensional Modeling, OLTP/OLAP, Schema Evolution, Migrations, Caching, Data Quality, Data Lineage, Data Catalog
+---
 
-**Tools:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white) 
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![DBT](https://img.shields.io/badge/-dbt-F9A03C?style=flat-square&logo=dbt&logoColor=white)
+### 💻 What I've Been Working On
 
-### 🛠️ Distributed Systems
-**Techniques:** Data Pipelines, Batch Processing, Data Lake, Data Warehouse, Asynchronous Processing, Message Queue
+- **DevOps & DataOps Automation:** Implementing robust CI/CD pipelines (GitHub Actions, ArgoCD), containerized environments (Docker, Kubernetes), and managing infrastructure as code (Terraform) to automate and scale development and deployment workflows.
+- **Scalable Go APIs & Clean Architecture:** Designing high-performance RESTful and gRPC APIs in **Go** using **Hexagonal Architecture** to fully decouple core domain logic from infrastructure, databases, and transport layers.
+- **Robust Testing Strategies:** Implementing comprehensive **Unit Tests** for core domains alongside **Integration Tests** using Docker/Testcontainers to validate API endpoints and real database interactions.
+- **High-Scale Ingestion Systems:** Architecting distributed and resilient pipelines for real-time (streaming) and batch financial operations, integrating external data sources, transactional databases, and third-party APIs.
+- **Platform Abstractions:** Developing internal tools, microservices, and modular components in **Go** and **Python** to simplify the deployment, monitoring, and orchestration of API workflows on Kubernetes.
+- **Data Lakehouses & Governance:** Structuring analytical foundations in BigQuery, securing API credentials, and integrating modern solutions for governance and secret management (HashiCorp Vault).
 
-**Tools:** ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/-Beam-000000?style=flat-square&logo=apache-beam&logoColor=white) 
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+---
 
-### 🤖 Machine Learning
-**Techniques:** Regression, Classification, Clustering, Data Wrangling, Hyperparameter Optimization, Cross Validation, Regularization, Data Augmentation  
+### 📫 Connect with Me
 
-**Tools:** 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-6B46C1?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-### ☁️ Cloud & DevOps
-**Techniques:** Infrastructure as Code, Containerization, Orchestration, CI/CD  
-
-**Tools:** ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+- **LinkedIn:** [linkedin.com/in/ribeiro-rafael-junior](https://linkedin.com/in/ribeiro-rafael-junior)
